@@ -1,0 +1,28 @@
+name: 9thRoot
+favicon: null
+layout_spectrum: 0.09013059642165899
+typography_spectrum: 0.8533887146040797
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4354689728934318
+  lightness: 0.4942341835703701
+  saturation: 0.12596504017710686
+  rhythmicContrast: 0.21828896831721067
+purpose: []
